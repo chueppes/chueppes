@@ -19,7 +19,7 @@
 | [![chueppes's GitHub stats](https://github-readme-stats.vercel.app/api?username=chueppes&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) | [![chueppes's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chueppes&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) |
 |:-:|:-:|
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/anna-clara-de-oliveira-calvo-170289206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-clara-de-oliveira-calvo-170289206/" height="30" width="40" /></a>
 <a href="https://instagram.com/chueppes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chueppes" height="30" width="40" /></a>
