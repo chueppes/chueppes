@@ -20,3 +20,7 @@
 | [![chueppes's GitHub stats](https://github-readme-stats.vercel.app/api?username=chueppes&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) | [![chueppes's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chueppes&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) |
 |:-:|:-:|
 
+<h3 align="left">This repo:</h3>
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
