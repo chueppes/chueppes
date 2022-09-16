@@ -15,11 +15,11 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,linkedin,html,css,github,git,figma,discord,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,stackoverflow,linkedin,html,linux,js,css,github,git,figma,discord,)](https://skillicons.dev)
 
 ## Future Skills
 
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,java,kotlin,react,js,angular,appwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,react,js,angular,aws,docker)](https://skillicons.dev)
 
 
 | [![chueppes's GitHub stats](https://github-readme-stats.vercel.app/api?username=chueppes&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) | [![chueppes's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chueppes&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) |
