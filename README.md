@@ -1,4 +1,4 @@
-## Hello, I'm Anna
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Hello,+I'm+Anna;Thanks+for+visting!;)](https://git.io/typing-svg)
 <h3 align="center">A software engeneering student at 42|Rio</h3>
 
 - 🔭 I’m currently working on **my projects at [42|Rio](https://42.rio)**
