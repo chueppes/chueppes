@@ -19,7 +19,7 @@
 
 ## Future Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,react,js,angular,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,js,angular,aws,docker)](https://skillicons.dev)
 
 
 | [![chueppes's GitHub stats](https://github-readme-stats.vercel.app/api?username=chueppes&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) | [![chueppes's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chueppes&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) |
