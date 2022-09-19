@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **annaclara.oliveiracalvo@gmail.com**
 
+## 42 Projects
+<a href="">![LIBFT]</a>
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,stackoverflow,linkedin,html,linux,js,css,github,git,figma,discord,)](https://skillicons.dev)
