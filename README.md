@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **annaclara.oliveiracalvo@gmail.com**
 
-[![<acalvo4>'s 42 stats](https://badge.mediaplus.ma/<colorfulwaves>/<acalvo4>)](https://github.com/oakoudad/badge42)
-
 ## 42 Projects
 <a href="https://github.com/chueppes/Libft">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/libfte.png)</a>
 <a href="https://github.com/chueppes/Get_next_line">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/get_next_linee.png)</a>
