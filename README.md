@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **annaclara.oliveiracalvo@gmail.com**
 
+- 🚀 Find me at 42 as | acalvo4 |
+
 ## 42 Projects
 ### Level 1
 <a href="https://github.com/chueppes/Libft">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/libfte.png)</a>
