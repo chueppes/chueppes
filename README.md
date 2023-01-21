@@ -18,6 +18,9 @@
 <a href="https://github.com/chueppes/Pipex">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/pipexe.png)</a>
 <a href="https://github.com/chueppes/So_long">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/so_longe.png)</a>
 <a href="https://github.com/chueppes/Push_Swap">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/push_swape.png)</a>
+
+### Level 3
+<a href="https://github.com/chueppes/Philo">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/philosopherse.png)</a>
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,stackoverflow,linkedin,html,linux,js,css,github,git,figma,discord,)](https://skillicons.dev)
