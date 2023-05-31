@@ -27,7 +27,7 @@
 
 ### Level 4
 <a href="https://github.com/chueppes/NetPractice">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/netpracticee.png )</a>
-<a href="[https://github.com/chueppes/Cub3d](https://github.com/peguimasid/42-Cub3d)">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/Cub3de.png )</a>
+<a href="[https://github.com/chueppes/Cub3d](https://github.com/peguimasid/42-Cub3d)">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/cub3de.png )</a>
 <a href="https://github.com/chueppes/CPP">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/cppe.png )</a>
 ## My Skills
 
