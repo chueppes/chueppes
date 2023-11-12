@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my projects at [42|Rio](https://42.rio)**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Ruby**
 
 - 📫 How to reach me **annaclara.oliveiracalvo@gmail.com**
 
