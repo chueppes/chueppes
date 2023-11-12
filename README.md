@@ -33,7 +33,7 @@
 ### Level 5
 <a href="https://github.com/chueppes/Inception-42">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/inceptione.png )</a>
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=,ruby,rails,react,django,python,tailwind,js,css,html,figma,git,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,react,django,python,tailwind,js,css,html,figma,git,docker&perline=3)](https://skillicons.dev)
 
 
 | [![chueppes's GitHub stats](https://github-readme-stats.vercel.app/api?username=chueppes&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) | [![chueppes's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chueppes&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/chueppes?tab=repositories) |
