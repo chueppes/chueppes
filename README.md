@@ -33,8 +33,7 @@
 ### Level 5
 <a href="https://github.com/chueppes/Inception-42">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/inceptione.png )</a>
 ## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,vim,vscode,stackoverflow,linkedin,html,linux,js,css,github,git,figma,discord,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,css,html,figma,git,bash&perline=3)](https://skillicons.dev)
 
 ## Future Skills
 
