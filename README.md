@@ -10,7 +10,7 @@
 - 🚀 Find me at 42 as | acalvo4 |
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/chueppes/chueppes/blob/main/src/gify.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/chueppes/chueppes/blob/main/src/42_badges/gify.gif">
 </div><br>
 
 ## My Skills
