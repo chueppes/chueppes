@@ -9,29 +9,10 @@
 
 - 🚀 Find me at 42 as | acalvo4 |
 
-## 42 Projects
-### Level 1
-<a href="https://github.com/chueppes/Libft">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/libfte.png)</a>
-<a href="https://github.com/chueppes/Get_next_line">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/get_next_linee.png)</a>
-<a href="https://github.com/chueppes/Ft_Printf">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/ft_printfe.png)</a>
-<a href="">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/born2beroote.png)</a>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/chueppes/chueppes/blob/main/src/gify.gif">
+</div><br>
 
-### Level 2
-<a href="https://github.com/chueppes/Pipex">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/pipexe.png)</a>
-<a href="https://github.com/chueppes/So_long">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/so_longe.png)</a>
-<a href="https://github.com/chueppes/Push_Swap">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/push_swape.png)</a>
-
-### Level 3
-<a href="https://github.com/chueppes/Philo">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/philosopherse.png)</a>
-<a href="https://github.com/chueppes/Minishell">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/minishelle.png)</a>
-
-### Level 4
-<a href="https://github.com/chueppes/NetPractice">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/netpracticee.png )</a>
-<a href="https://github.com/peguimasid/42-Cub3d">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/cub3de.png )</a>
-<a href="https://github.com/chueppes/CPP">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/cppe.png )</a>
-
-### Level 5
-<a href="https://github.com/chueppes/Inception-42">![42 BADGE](https://github.com/chueppes/chueppes/blob/main/src/42_badges/inceptione.png )</a>
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,react,django,python,tailwind,js,css,html,figma,git,docker&perline=3)](https://skillicons.dev)
 
