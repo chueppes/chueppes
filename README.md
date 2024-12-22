@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Hello,+I'm+Anna;Thanks+for+visiting!;)](https://git.io/typing-svg)
-<h3 align="center">I'm a software engeneering student at 42|Rio</h3>
+<h3 align="center">I'm a Human Coder at 42|Rio</h3>
 
 - 🔭 I’m currently working on **my projects at [42|Rio](https://42.rio)**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **annaclara.oliveiracalvo@gmail.com**
 
